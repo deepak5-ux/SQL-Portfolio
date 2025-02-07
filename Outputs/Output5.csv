@@ -1,0 +1,31 @@
+city,country,OrderFrequency
+"Buenos Aires",Argentina,30
+Graz,Austria,95
+Salzburg,Austria,23
+Charleroi,Belgium,39
+Bruxelles,Belgium,17
+"Rio de Janeiro",Brazil,80
+"Sao Paulo",Brazil,79
+Resende,Brazil,19
+Campinas,Brazil,19
+Tsawassen,Canada,33
+Montréal,Canada,32
+Vancouver,Canada,8
+Århus,Denmark,31
+Kobenhavn,Denmark,14
+Oulu,Finland,37
+Helsinki,Finland,17
+Marseille,France,41
+Toulouse,France,30
+Strasbourg,France,26
+Lyon,France,25
+Lille,France,16
+Nantes,France,15
+Versailles,France,11
+Reims,France,10
+Paris,France,6
+Cunewalde,Germany,86
+München,Germany,48
+Brandenburg,Germany,39
+"Frankfurt a.M.",Germany,35
+Köln,Germany,29

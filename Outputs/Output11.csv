@@ -1,0 +1,31 @@
+Region,DiscountedOrders,TotalOrders,DiscountPercentage
+Toulouse,12,13,92.31
+Eugene,8,9,88.89
+Lyon,8,10,80.00
+Cork,15,19,78.95
+Lisboa,10,13,76.92
+Bern,6,8,75.00
+"San Francisco",3,4,75.00
+"Reggio Emilia",8,11,72.73
+Stuttgart,7,10,70.00
+München,10,15,66.67
+Kobenhavn,4,6,66.67
+Resende,6,9,66.67
+Berlin,4,6,66.67
+"Frankfurt a.M.",9,14,64.29
+Graz,18,28,64.29
+Cunewalde,18,28,64.29
+Bräcke,12,19,63.16
+Montréal,8,13,61.54
+Boise,19,31,61.29
+Köln,6,10,60.00
+"Sao Paulo",18,30,60.00
+Barquisimeto,7,12,58.33
+Genève,5,9,55.56
+Campinas,5,9,55.56
+"I. de Margarita",6,11,54.55
+Århus,6,11,54.55
+Oulu,8,15,53.33
+Münster,3,6,50.00
+Luleå,9,18,50.00
+Seattle,7,14,50.00
